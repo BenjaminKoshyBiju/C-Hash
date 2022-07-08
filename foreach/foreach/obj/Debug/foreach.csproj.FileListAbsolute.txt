@@ -1,0 +1,8 @@
+G:\c hash projects\foreach\foreach\bin\Debug\@foreach.exe.config
+G:\c hash projects\foreach\foreach\bin\Debug\@foreach.exe
+G:\c hash projects\foreach\foreach\bin\Debug\@foreach.pdb
+G:\c hash projects\foreach\foreach\obj\Debug\foreach.csproj.AssemblyReference.cache
+G:\c hash projects\foreach\foreach\obj\Debug\foreach.csproj.SuggestedBindingRedirects.cache
+G:\c hash projects\foreach\foreach\obj\Debug\foreach.csproj.CoreCompileInputs.cache
+G:\c hash projects\foreach\foreach\obj\Debug\@foreach.exe
+G:\c hash projects\foreach\foreach\obj\Debug\@foreach.pdb

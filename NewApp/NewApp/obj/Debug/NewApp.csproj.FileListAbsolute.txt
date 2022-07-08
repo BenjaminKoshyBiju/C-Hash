@@ -1,0 +1,8 @@
+G:\c hash projects\NewApp\NewApp\bin\Debug\NewApp.exe.config
+G:\c hash projects\NewApp\NewApp\bin\Debug\NewApp.exe
+G:\c hash projects\NewApp\NewApp\bin\Debug\NewApp.pdb
+G:\c hash projects\NewApp\NewApp\obj\Debug\NewApp.csproj.AssemblyReference.cache
+G:\c hash projects\NewApp\NewApp\obj\Debug\NewApp.csproj.SuggestedBindingRedirects.cache
+G:\c hash projects\NewApp\NewApp\obj\Debug\NewApp.csproj.CoreCompileInputs.cache
+G:\c hash projects\NewApp\NewApp\obj\Debug\NewApp.exe
+G:\c hash projects\NewApp\NewApp\obj\Debug\NewApp.pdb
