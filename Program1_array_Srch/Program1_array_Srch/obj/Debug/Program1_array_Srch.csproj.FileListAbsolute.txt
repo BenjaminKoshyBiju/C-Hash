@@ -1,0 +1,8 @@
+W:\c hash programs\C-Hash\Program1_array_Srch\Program1_array_Srch\bin\Debug\Program1_array_Srch.exe.config
+W:\c hash programs\C-Hash\Program1_array_Srch\Program1_array_Srch\bin\Debug\Program1_array_Srch.exe
+W:\c hash programs\C-Hash\Program1_array_Srch\Program1_array_Srch\bin\Debug\Program1_array_Srch.pdb
+W:\c hash programs\C-Hash\Program1_array_Srch\Program1_array_Srch\obj\Debug\Program1_array_Srch.csproj.AssemblyReference.cache
+W:\c hash programs\C-Hash\Program1_array_Srch\Program1_array_Srch\obj\Debug\Program1_array_Srch.csproj.SuggestedBindingRedirects.cache
+W:\c hash programs\C-Hash\Program1_array_Srch\Program1_array_Srch\obj\Debug\Program1_array_Srch.csproj.CoreCompileInputs.cache
+W:\c hash programs\C-Hash\Program1_array_Srch\Program1_array_Srch\obj\Debug\Program1_array_Srch.exe
+W:\c hash programs\C-Hash\Program1_array_Srch\Program1_array_Srch\obj\Debug\Program1_array_Srch.pdb
