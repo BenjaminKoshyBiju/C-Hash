@@ -1,0 +1,8 @@
+W:\c hash programs\C-Hash\delegate\delegate\bin\Debug\@delegate.exe.config
+W:\c hash programs\C-Hash\delegate\delegate\bin\Debug\@delegate.exe
+W:\c hash programs\C-Hash\delegate\delegate\bin\Debug\@delegate.pdb
+W:\c hash programs\C-Hash\delegate\delegate\obj\Debug\delegate.csproj.AssemblyReference.cache
+W:\c hash programs\C-Hash\delegate\delegate\obj\Debug\delegate.csproj.SuggestedBindingRedirects.cache
+W:\c hash programs\C-Hash\delegate\delegate\obj\Debug\delegate.csproj.CoreCompileInputs.cache
+W:\c hash programs\C-Hash\delegate\delegate\obj\Debug\@delegate.exe
+W:\c hash programs\C-Hash\delegate\delegate\obj\Debug\@delegate.pdb
