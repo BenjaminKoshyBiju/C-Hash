@@ -1,0 +1,8 @@
+W:\c hash programs\C-Hash\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.exe.config
+W:\c hash programs\C-Hash\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.exe
+W:\c hash programs\C-Hash\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.pdb
+W:\c hash programs\C-Hash\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.csproj.AssemblyReference.cache
+W:\c hash programs\C-Hash\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.csproj.SuggestedBindingRedirects.cache
+W:\c hash programs\C-Hash\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.csproj.CoreCompileInputs.cache
+W:\c hash programs\C-Hash\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.exe
+W:\c hash programs\C-Hash\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.pdb

@@ -23,7 +23,7 @@ namespace @delegate
             Rectangle rect = new Rectangle();
             rectDelegate rectDel = new rectDelegate(rect.area);//using standard method we have to manually call each fn but with delegate we can call all of them in one go.
             rectDel += rect.perimeter;
-            rectDel.Invoke(3, 5);
+            rectDel.Invoke(3, 5);//on a single event multiple methods can be invoked
            }
     }
 
