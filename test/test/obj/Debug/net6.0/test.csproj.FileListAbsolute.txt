@@ -1,0 +1,12 @@
+W:\c hash programs\C-Hash\test\test\bin\Debug\net6.0\test.deps.json
+W:\c hash programs\C-Hash\test\test\bin\Debug\net6.0\test.dll
+W:\c hash programs\C-Hash\test\test\bin\Debug\net6.0\test.pdb
+W:\c hash programs\C-Hash\test\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+W:\c hash programs\C-Hash\test\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+W:\c hash programs\C-Hash\test\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+W:\c hash programs\C-Hash\test\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+W:\c hash programs\C-Hash\test\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+W:\c hash programs\C-Hash\test\test\obj\Debug\net6.0\test.dll
+W:\c hash programs\C-Hash\test\test\obj\Debug\net6.0\refint\test.dll
+W:\c hash programs\C-Hash\test\test\obj\Debug\net6.0\test.pdb
+W:\c hash programs\C-Hash\test\test\obj\Debug\net6.0\ref\test.dll

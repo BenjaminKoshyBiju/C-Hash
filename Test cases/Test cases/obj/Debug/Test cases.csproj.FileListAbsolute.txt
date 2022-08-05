@@ -1,0 +1,8 @@
+W:\c hash programs\C-Hash\Test cases\Test cases\bin\Debug\Test cases.exe.config
+W:\c hash programs\C-Hash\Test cases\Test cases\bin\Debug\Test cases.exe
+W:\c hash programs\C-Hash\Test cases\Test cases\bin\Debug\Test cases.pdb
+W:\c hash programs\C-Hash\Test cases\Test cases\obj\Debug\Test cases.csproj.AssemblyReference.cache
+W:\c hash programs\C-Hash\Test cases\Test cases\obj\Debug\Test cases.csproj.SuggestedBindingRedirects.cache
+W:\c hash programs\C-Hash\Test cases\Test cases\obj\Debug\Test cases.csproj.CoreCompileInputs.cache
+W:\c hash programs\C-Hash\Test cases\Test cases\obj\Debug\Test cases.exe
+W:\c hash programs\C-Hash\Test cases\Test cases\obj\Debug\Test cases.pdb

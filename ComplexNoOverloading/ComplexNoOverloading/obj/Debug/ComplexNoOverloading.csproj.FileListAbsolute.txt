@@ -1,0 +1,8 @@
+W:\c hash programs\C-Hash\ComplexNoOverloading\ComplexNoOverloading\bin\Debug\ComplexNoOverloading.exe.config
+W:\c hash programs\C-Hash\ComplexNoOverloading\ComplexNoOverloading\bin\Debug\ComplexNoOverloading.exe
+W:\c hash programs\C-Hash\ComplexNoOverloading\ComplexNoOverloading\bin\Debug\ComplexNoOverloading.pdb
+W:\c hash programs\C-Hash\ComplexNoOverloading\ComplexNoOverloading\obj\Debug\ComplexNoOverloading.csproj.AssemblyReference.cache
+W:\c hash programs\C-Hash\ComplexNoOverloading\ComplexNoOverloading\obj\Debug\ComplexNoOverloading.csproj.SuggestedBindingRedirects.cache
+W:\c hash programs\C-Hash\ComplexNoOverloading\ComplexNoOverloading\obj\Debug\ComplexNoOverloading.csproj.CoreCompileInputs.cache
+W:\c hash programs\C-Hash\ComplexNoOverloading\ComplexNoOverloading\obj\Debug\ComplexNoOverloading.exe
+W:\c hash programs\C-Hash\ComplexNoOverloading\ComplexNoOverloading\obj\Debug\ComplexNoOverloading.pdb
