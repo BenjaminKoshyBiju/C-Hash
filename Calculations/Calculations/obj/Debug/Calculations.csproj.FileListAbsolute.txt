@@ -1,0 +1,3 @@
+W:\c hash programs\C-Hash\Calculations\Calculations\obj\Debug\Calculations.csproj.AssemblyReference.cache
+W:\c hash programs\C-Hash\Calculations\Calculations\obj\Debug\Calculations.csproj.SuggestedBindingRedirects.cache
+W:\c hash programs\C-Hash\Calculations\Calculations\obj\Debug\Calculations.csproj.CoreCompileInputs.cache

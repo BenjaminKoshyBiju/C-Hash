@@ -1,0 +1,17 @@
+W:\c hash programs\C-Hash\Form1\Form1\bin\Debug\net6.0-windows\Form1.exe
+W:\c hash programs\C-Hash\Form1\Form1\bin\Debug\net6.0-windows\Form1.deps.json
+W:\c hash programs\C-Hash\Form1\Form1\bin\Debug\net6.0-windows\Form1.runtimeconfig.json
+W:\c hash programs\C-Hash\Form1\Form1\bin\Debug\net6.0-windows\Form1.dll
+W:\c hash programs\C-Hash\Form1\Form1\bin\Debug\net6.0-windows\Form1.pdb
+W:\c hash programs\C-Hash\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.AssemblyReference.cache
+W:\c hash programs\C-Hash\Form1\Form1\obj\Debug\net6.0-windows\Form1.Form1.resources
+W:\c hash programs\C-Hash\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.GenerateResource.cache
+W:\c hash programs\C-Hash\Form1\Form1\obj\Debug\net6.0-windows\Form1.GeneratedMSBuildEditorConfig.editorconfig
+W:\c hash programs\C-Hash\Form1\Form1\obj\Debug\net6.0-windows\Form1.AssemblyInfoInputs.cache
+W:\c hash programs\C-Hash\Form1\Form1\obj\Debug\net6.0-windows\Form1.AssemblyInfo.cs
+W:\c hash programs\C-Hash\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.CoreCompileInputs.cache
+W:\c hash programs\C-Hash\Form1\Form1\obj\Debug\net6.0-windows\Form1.dll
+W:\c hash programs\C-Hash\Form1\Form1\obj\Debug\net6.0-windows\refint\Form1.dll
+W:\c hash programs\C-Hash\Form1\Form1\obj\Debug\net6.0-windows\Form1.pdb
+W:\c hash programs\C-Hash\Form1\Form1\obj\Debug\net6.0-windows\Form1.genruntimeconfig.cache
+W:\c hash programs\C-Hash\Form1\Form1\obj\Debug\net6.0-windows\ref\Form1.dll

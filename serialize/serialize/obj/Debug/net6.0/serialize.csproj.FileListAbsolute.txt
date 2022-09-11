@@ -1,0 +1,15 @@
+W:\c hash programs\C-Hash\serialize\serialize\bin\Debug\net6.0\serialize.exe
+W:\c hash programs\C-Hash\serialize\serialize\bin\Debug\net6.0\serialize.deps.json
+W:\c hash programs\C-Hash\serialize\serialize\bin\Debug\net6.0\serialize.runtimeconfig.json
+W:\c hash programs\C-Hash\serialize\serialize\bin\Debug\net6.0\serialize.dll
+W:\c hash programs\C-Hash\serialize\serialize\bin\Debug\net6.0\serialize.pdb
+W:\c hash programs\C-Hash\serialize\serialize\obj\Debug\net6.0\serialize.csproj.AssemblyReference.cache
+W:\c hash programs\C-Hash\serialize\serialize\obj\Debug\net6.0\serialize.GeneratedMSBuildEditorConfig.editorconfig
+W:\c hash programs\C-Hash\serialize\serialize\obj\Debug\net6.0\serialize.AssemblyInfoInputs.cache
+W:\c hash programs\C-Hash\serialize\serialize\obj\Debug\net6.0\serialize.AssemblyInfo.cs
+W:\c hash programs\C-Hash\serialize\serialize\obj\Debug\net6.0\serialize.csproj.CoreCompileInputs.cache
+W:\c hash programs\C-Hash\serialize\serialize\obj\Debug\net6.0\serialize.dll
+W:\c hash programs\C-Hash\serialize\serialize\obj\Debug\net6.0\refint\serialize.dll
+W:\c hash programs\C-Hash\serialize\serialize\obj\Debug\net6.0\serialize.pdb
+W:\c hash programs\C-Hash\serialize\serialize\obj\Debug\net6.0\serialize.genruntimeconfig.cache
+W:\c hash programs\C-Hash\serialize\serialize\obj\Debug\net6.0\ref\serialize.dll

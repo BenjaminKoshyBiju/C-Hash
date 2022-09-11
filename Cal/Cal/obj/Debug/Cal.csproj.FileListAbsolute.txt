@@ -1,0 +1,14 @@
+W:\c hash programs\C-Hash\Cal\Cal\obj\Debug\Cal.csproj.AssemblyReference.cache
+W:\c hash programs\C-Hash\Cal\Cal\obj\Debug\Cal.csproj.SuggestedBindingRedirects.cache
+W:\c hash programs\C-Hash\Cal\Cal\obj\Debug\Cal.Form1.resources
+W:\c hash programs\C-Hash\Cal\Cal\obj\Debug\Cal.Properties.Resources.resources
+W:\c hash programs\C-Hash\Cal\Cal\obj\Debug\Cal.csproj.GenerateResource.cache
+W:\c hash programs\C-Hash\Cal\Cal\obj\Debug\Cal.csproj.CoreCompileInputs.cache
+W:\c hash programs\C-Hash\Cal\Cal\bin\Debug\Cal.exe.config
+W:\c hash programs\C-Hash\Cal\Cal\bin\Debug\Cal.exe
+W:\c hash programs\C-Hash\Cal\Cal\bin\Debug\Cal.pdb
+W:\c hash programs\C-Hash\Cal\Cal\bin\Debug\ClassLibrary1a.dll
+W:\c hash programs\C-Hash\Cal\Cal\bin\Debug\ClassLibrary1a.pdb
+W:\c hash programs\C-Hash\Cal\Cal\obj\Debug\Cal.csproj.CopyComplete
+W:\c hash programs\C-Hash\Cal\Cal\obj\Debug\Cal.exe
+W:\c hash programs\C-Hash\Cal\Cal\obj\Debug\Cal.pdb
